@@ -1,0 +1,46 @@
+h4{
+  color: rgb(209, 231, 89);
+}
+nav{
+  background-color: rgba(0, 0, 0, 0.51);
+
+}
+
+.ya{
+  text-align: center;
+  border-radius: 20px;
+  width: 150px;
+  height: 40px;
+
+}
+.ya:hover{
+
+  background-color: rgba(0, 0, 0, 0.6);
+
+}
+
+body {
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.card-header img{
+  background-repeat: no-repeat;
+  width: 100%;
+}
+.ca{
+  color: white;
+  background-color: rgb(17, 17, 17);
+}
+.ca:hover{
+    color: white;
+    background-color: rgb(0, 92, 170);
+}
+.fot{
+  background-image: url('/img/fot.png');
+  background-repeat: no-repeat;
+  height: 300px;
+}
+.cari{
+  border: none;
+}
